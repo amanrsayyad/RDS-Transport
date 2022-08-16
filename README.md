@@ -27,13 +27,13 @@ To run **Transportio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/transportio.git
+sudo git clone https://github.com/amanrsayyad/RDS-Transport.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/transportio.git
+git clone https://github.com/amanrsayyad/RDS-Transport.git
 ```
 ### License
 
